@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecryptAndMigrate", "DecryptAndMigrate\DecryptAndMigrate.csproj", "{2183CCB0-7BE9-44C6-8A17-894907E2B1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2183CCB0-7BE9-44C6-8A17-894907E2B1CA}.Debug|Any CPU.ActiveCfg = Release|x64
+		{2183CCB0-7BE9-44C6-8A17-894907E2B1CA}.Debug|Any CPU.Build.0 = Release|x64
+		{2183CCB0-7BE9-44C6-8A17-894907E2B1CA}.Debug|x64.ActiveCfg = Release|x64
+		{2183CCB0-7BE9-44C6-8A17-894907E2B1CA}.Debug|x64.Build.0 = Release|x64
+		{2183CCB0-7BE9-44C6-8A17-894907E2B1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2183CCB0-7BE9-44C6-8A17-894907E2B1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2183CCB0-7BE9-44C6-8A17-894907E2B1CA}.Release|x64.ActiveCfg = Release|x64
+		{2183CCB0-7BE9-44C6-8A17-894907E2B1CA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC351A3-6B63-421B-BF3C-37ED1E808253}
+	EndGlobalSection
+EndGlobal

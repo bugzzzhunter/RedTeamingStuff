@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubCodes\\RedTeamingStuff\\DecryptAndMigrate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2183CCB0-7BE9-44C6-8A17-894907E2B1CA}|DecryptAndMigrate\\DecryptAndMigrate.csproj|d:\\githubcodes\\redteamingstuff\\decryptandmigrate\\decryptandmigrate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2183CCB0-7BE9-44C6-8A17-894907E2B1CA}|DecryptAndMigrate\\DecryptAndMigrate.csproj|solutionrelative:decryptandmigrate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DecryptAndMigrate||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DecryptAndMigrate",
+              "DocumentMoniker": "D:\\GithubCodes\\RedTeamingStuff\\DecryptAndMigrate\\DecryptAndMigrate\\DecryptAndMigrate.csproj",
+              "RelativeDocumentMoniker": "DecryptAndMigrate\\DecryptAndMigrate.csproj",
+              "ToolTip": "D:\\GithubCodes\\RedTeamingStuff\\DecryptAndMigrate\\DecryptAndMigrate\\DecryptAndMigrate.csproj",
+              "RelativeToolTip": "DecryptAndMigrate\\DecryptAndMigrate.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-28T16:30:05.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubCodes\\RedTeamingStuff\\DecryptAndMigrate\\DecryptAndMigrate\\Program.cs",
+              "RelativeDocumentMoniker": "DecryptAndMigrate\\Program.cs",
+              "ToolTip": "D:\\GithubCodes\\RedTeamingStuff\\DecryptAndMigrate\\DecryptAndMigrate\\Program.cs",
+              "RelativeToolTip": "DecryptAndMigrate\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwJcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:22:43.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
